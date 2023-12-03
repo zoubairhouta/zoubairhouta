@@ -34,12 +34,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
- <h3>FrontEnd Developpement</h3>
-    <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,threejs,html,css,sass,tailwind,vscode,github,figma,tailwind,git,r" />
-   
-  <h3>BackEnd Developpement</h3>
- <img src="https://skillicons.dev/icons?i=nextjs,nodejs,python,javascript,typescript,express,mongodb,java,spring,mysql,flask,postman" /><br>
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <br/>
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <h3 style="margin-right: 10px;">FrontEnd Development</h3>
+        <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,threejs,html,css,sass,tailwind,vscode,github,figma,tailwind,git,r" />
+    </div>
+    <br/>
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <h3 style="margin-right: 10px;">BackEnd Development</h3>
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,python,javascript,typescript,express,mongodb,java,spring,mysql,flask,postman" />
+    </div>
+    <br/>
+    <hr/>
 </div>
-
-<br/>
-<hr/>
