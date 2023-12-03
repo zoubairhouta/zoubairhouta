@@ -38,7 +38,7 @@
     <br/>
     <div style="display: flex; align-items: center; justify-content: center;">
         <h3 style="margin-right: 10px;">FrontEnd Development</h3>
-        <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,threejs,html,css,sass,tailwind,vscode,github,figma,tailwind,git,r" />
+        <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,threejs,html,css,sass,tailwind,vscode,github,figma,tailwind,git" />
     </div>
     <br/>
     <div style="display: flex; align-items: center; justify-content: center;">
